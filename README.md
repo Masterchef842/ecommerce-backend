@@ -16,7 +16,7 @@ a sequelize database for keeping track of merchandise on an e-commerce website
 
 ## Usage
 
-    follow the instructions in this video => https://drive.google.com/file/d/1TuvAbUg6JfboNOdVKaxKEhulS25QUTe8/view
+    follow the instructions in this video => https://drive.google.com/file/d/1TuvAbUg6JfboNOdVKaxKEhulS25QUTe8/view?usp=sharing
 
 ## Credits
     n/a
